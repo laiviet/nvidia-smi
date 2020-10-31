@@ -8,7 +8,7 @@ You should have your CUDA driver installed.
 
 ## Compile
 
-Just as easy as follow. If you
+Just as easy as follow.
 
 ```
 ./compile.sh
