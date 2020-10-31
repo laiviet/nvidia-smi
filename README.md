@@ -3,7 +3,7 @@ Alternative ``nvidia-smi`` for Mac. Since ``NVML`` is not supported on OSX, GPU 
 
 ## Requirements
 
-You should have your CUDA driver installed.
+You should have your CUDA driver and CUDA toolkit installed. 
 
 
 ## Compile
