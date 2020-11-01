@@ -45,3 +45,16 @@ CUDA: 10.1
 |     6.1                       |                      |
 |-------------------------------+----------------------+
 ```
+
+
+## Tips
+
+If you want to see GPU usage, MacOS 's Activity Monitor has a visualization of GPU usage. 
+
+```Open Activity Monitor -> Window -> GPU History```
+
+Or
+
+```Open Activity Monitor -> Command + 4```
+
+![GPU usage](https://github.com/laiviet/nvidia-smi/blob/main/gpu_usage.png)
